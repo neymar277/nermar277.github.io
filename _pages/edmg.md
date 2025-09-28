@@ -1,11 +1,13 @@
 ---
 layout: single
-title: "EDMG - Enhanced Dynamic Motion Generation"
+title: "EDMG Project"
 permalink: /edmg/
 author_profile: true
 ---
 
 # EDMG - Enhanced Dynamic Motion Generation
+
+**EDMG** is an innovative dynamic motion generation research project that focuses on developing advanced motion generation algorithms and techniques. This project combines cutting-edge technologies in deep learning, computer vision, and robotics to provide more natural and efficient motion generation capabilities for intelligent robotic systems.
 
 ## 项目简介
 
@@ -151,8 +153,8 @@ graph TB
 
 ### 📧 联系方式
 - **邮箱**: [联系邮箱]
-- **GitHub**: [{{ site.github_username }}](https://github.com/{{ site.github_username }})
-- **项目主页**: [EDMG项目]({{ site.url }}/edmg/)
+- **GitHub**: [zjm77k](https://github.com/zjm77k)
+- **项目主页**: [EDMG项目](https://zjm77k.github.io/edmg/)
 
 ### 💬 社区交流
 - **技术讨论**: GitHub Issues
